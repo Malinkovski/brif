@@ -46,6 +46,7 @@ Use the built-in continuous integration in GitLab.
 
 # Editing this README
 
+<<<<<<< HEAD
 When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
 
 ## Suggestions for a good README
@@ -71,10 +72,14 @@ Use examples liberally, and show the expected output if you can. It's helpful to
 
 ## Support
 Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+=======
+This is a branch from the Brainster projects repository, the first project "project01" named  "Brainster Labs | Front End Academy" or Brif project, and it's written in Sass and javascript.
+>>>>>>> project01
 
 ## Roadmap
 If you have ideas for releases in the future, it is a good idea to list them in the README.
 
+<<<<<<< HEAD
 ## Contributing
 State if you are open to contributions and what your requirements are for accepting them.
 
@@ -90,3 +95,6 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+=======
+Adding future challenge branches from Brainster to my git repository.
+>>>>>>> project01
